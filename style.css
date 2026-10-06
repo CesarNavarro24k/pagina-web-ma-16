@@ -1,0 +1,11 @@
+body {font-family: 'Times New Roman', Times, serif; 
+    background-color: bisque;
+    color: blue;
+    /* background-image: url("https://img.redbull.com/images/c_fill,g_auto,w_450,h_600/q_auto,f_auto/redbullcom/2017/07/13/f35f87b7-93ee-4d30-935a-dbfdb77d22cd/hollow-knight-switch.jpg.jpg");
+    background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {color: red;}
+img {width: 250px; height: 250px;}
